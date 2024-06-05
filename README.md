@@ -6,7 +6,7 @@
 ![image](https://github.com/cyberfocused/MachineLearning/blob/main/1.jpg)  
 
 ## Step #2 - I split the data into 2 columns-input and output
-![image](https://github.com/cyberfocused/MachineLearning/blob/main/2.jpg) 
+![image](https://github.com/cyberfocused/MachineLearning/blob/main/3.jpg) 
 
 ## Step #3 - a temporary inspection of my music database
 ![image](https://github.com/cyberfocused/MachineLearning/blob/main/3.jpg) 
