@@ -3,7 +3,7 @@
   preferred to listen to: 1's represented Adult males and 0's represented Adult females
 
 ## Step #1 - from my open notebook on Jupyter
-![image](https://github.com/cyberfocused/MachineLearning/blob/main/1.jpg)  
+![image](https://github.com/cyberfocused/MachineLearning/blob/main/1a.jpg)  
 
 ## Step #2 - I split the data into 2 columns-input and output
 ![image](https://github.com/cyberfocused/MachineLearning/blob/main/3.jpg) 
