@@ -1,32 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h2><title>Machine Learning</title></h2>
-    <h3>A simple open notebook in Jupyter where I taught the app to analyze data from my Excel file spreadsheet of people aged from 20-25 years old and genres of music that each group preferred to listen to: 1's represented Adult males and 0's represented Adult females</h3>
+##Machine Learning
+A simple open notebook in Jupyter where I taught the app to analyze data from my Excel file spreadsheet of people aged from 20- 25 years old and genres of music that each group 
+  preferred to listen to: 1's represented Adult males and 0's represented Adult females
 
-    <div>
-        <h3>Step #1</h3>
-        ![image](https://github.com/cyberfocused/MachineLearning/blob/main/1.jpg)
-        <p>From my open Notebook on Jupyter</p>
-    </div>
+## Step #1 - from my open notebook on Jupyter
+[image](https://github.com/cyberfocused/MachineLearning/blob/main/1.jpg)  
 
-    <div>
-        <h3>Step #2</h3>
-        <img src="image2.jpg" alt="Step 2">
-        <p>I split the data into 2 columns-input and output</p>
-    </div>
+## Step #2 - I split the data into 2 columns-input and output
+[image](https://github.com/cyberfocused/MachineLearning/blob/main/2.jpg) 
 
-    <div>
-        <h3>Step #3</h3>
-        <img src="image3.jpg" alt="Step 3">
-        <p>A temporary inspection of my music database</p>
-    </div>
+## Step #3 - a temporary inspection of my music database
+[image](https://github.com/cyberfocused/MachineLearning/blob/main/3.jpg) 
 
-    <div>
-        <h3>Step #4</h3>
-        <img src="image4.jpg" alt="Step 4">
-        <p>I tested to see what music genres a 21 year old male and 22 year old female would listen to since they aren't listed in my database
+## Step #4 - I tested to see what music genres a 21 year old male and 22 year old female would listen to since they aren't listed in my database
+[image](https://github.com/cyberfocused/MachineLearning/blob/main/4.jpg) 
+
+## Step #5 - I set a test size to 20%- for training the machine
+[image](https://github.com/cyberfocused/MachineLearning/blob/main/5.jpg) 
+
+## Step #6 - I set the test size to be used for training to 80% for testing
+[image](https://github.com/cyberfocused/MachineLearning/blob/main/6.jpg) 
