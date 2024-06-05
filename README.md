@@ -11,7 +11,7 @@
 
     <div>
         <h3>Step #1</h3>
-        <img src="image1.jpg" alt="Step 1">
+        ![image](https://github.com/cyberfocused/MachineLearning/blob/main/1.jpg)
         <p>From my open Notebook on Jupyter</p>
     </div>
 
