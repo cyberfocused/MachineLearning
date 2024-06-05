@@ -6,7 +6,6 @@
     <title>Machine Learning</title>
 </head>
 <body>
-    <h2>Machine Learning</h2>
     <h3>A simple open notebook in Jupyter where I taught the app to analyze data from my Excel file spreadsheet of people aged from 20-25 years old and genres of music that each group preferred to listen to: 1's represented Adult males and 0's represented Adult females</h3>
 
     <div>
