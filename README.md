@@ -1,9 +1,9 @@
 ##Machine Learning
-A simple open notebook in Jupyter where I taught the app to analyze data from my Excel file spreadsheet of people aged from 20- 25 years old and genres of music that each group 
+## A simple open notebook in Jupyter where I taught the app to analyze data from my Excel file spreadsheet of people aged from 20- 25 years old and genres of music that each group 
   preferred to listen to: 1's represented Adult males and 0's represented Adult females
 
 ## Step #1 - from my open notebook on Jupyter
-[image](https://github.com/cyberfocused/MachineLearning/blob/main/1.jpg)  
+[image][Step 1](https://github.com/cyberfocused/MachineLearning/blob/main/1.jpg)  
 
 ## Step #2 - I split the data into 2 columns-input and output
 [image](https://github.com/cyberfocused/MachineLearning/blob/main/2.jpg) 
